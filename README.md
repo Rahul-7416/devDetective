@@ -7,7 +7,7 @@ Unlock the potential of GitHub's extensive repository database and uncover hidde
 HTML, CSS, Vanilla JS
 
 # API Used:
-GitHub Open API
+[GitHub-Open-API](https://api.github.com/users)
 
 # Project's Live Link:
 [Dev-Detective](https://devdetective-9cd13.web.app/)
